@@ -1,6 +1,8 @@
 ly.g0v.tw
 =========
 
+[![Coverage Status](https://coveralls.io/repos/g0v/ly.g0v.tw/badge.png?branch=feature%2Fsteps-bar-of-bill-coverage)](https://coveralls.io/r/g0v/ly.g0v.tw?branch=feature%2Fsteps-bar-of-bill-coverage)
+
 WARNING: this is work in progress and the file format is likely to change!
 
 # Usage
